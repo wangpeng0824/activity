@@ -24,7 +24,7 @@
 		<java.version>1.8</java.version>
 		<!--<activiti.version>5.22.0</activiti.version>-->
 		<activiti.version> 5.22.0</activiti.version>
-		<swagger.version>2.6.1</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 	</properties>
 
 	<dependencies>
